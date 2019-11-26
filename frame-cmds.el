@@ -61,7 +61,7 @@
 ;;    Frame parameter changes, such as background color, can be saved
 ;;    for future use by all frames or all frames of a certain
 ;;    kind.  For that, you must change the frame parameters of the
-;;    correponding frame-alist variable.
+;;    corresponding frame-alist variable.
 ;;
 ;;    There is no single variable for saving changes to parameters of
 ;;    the current frame.  Instead, there are several different
@@ -520,7 +520,7 @@
 ;; 2004/12/09 dadams
 ;;     Changed compile-time require of strings to a soft require.
 ;; 2004/10/11 dadams
-;;     args-for-tile-frames: Fixed bug when non-existant frame in name history.
+;;     args-for-tile-frames: Fixed bug when non-existent frame in name history.
 ;;     tile-frames: show-frame at end (for case where use prefix arg)
 ;; 2004/09/11 dadams
 ;;     Moved to doremi-frm.el: frame-config-ring*, frame-config-wo-parameters,
